@@ -1,0 +1,3 @@
+scenario,emi_inr,total_interest_inr,total_paid_inr,months
+Baseline,17994.52,2318684.59,4318684.59,240
+Extra INR 5000 monthly,17994.52,1251312.56,3251312.56,142
