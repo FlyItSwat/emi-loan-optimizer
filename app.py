@@ -5,7 +5,7 @@ import streamlit as st
 from loan import emi, amortize
 
 st.set_page_config(page_title='EMI & Loan Optimizer', page_icon='🏦', layout='wide')
-st.title('🏦 EMI & Loan Optimizer')
+st.title('EMI & Loan Optimizer')
 st.caption('Compare loans, model prepayments and explore interest savings.')
 with st.sidebar:
     st.header('Loan A')
